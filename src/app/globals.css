@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+
+body{
+  overflow-x: hidden;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+.box {
+  background: #9900ff;
+  height: 100vh;
+  width: 100%;
+  /* transform: translateX(50%) translateZ(0px); */
+}
+
+.are {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  text-transform: capitalize;
+}
+
+
+.main-banner {
+  background: linear-gradient(155deg, rgba(252, 150, 74, 1) 0%, rgba(227, 66, 4, 1) 70%, rgba(254, 113, 45, 1) 100%);
+}
+
+
+
+
+.stroke-h {
+  color: black;
+  -webkit-text-fill-color: #ffffff00; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: black;
+  font-family: "system-ui";
+} 
+
+.project-1
+{
+  background-image: url("../../public/pro-1.webp");
+  background-size: 100%;
+}
+.project-2 {
+  background-image: url(/_next/static/media/pro-2.60c42921.jpg);
+  background-size: 100%;
+}
+.project-3
+{
+  background-image: url("../../public/pro-3.jpg");
+  background-size: 100%;
+}
