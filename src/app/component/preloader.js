@@ -17,7 +17,7 @@ export default function Preloader() {
   const [areWindow , setAreWindow]= useState(false);
 
   useEffect(() =>{
-    setTimeout(() =>setAreWindow(true),8000)
+    setTimeout(() =>setAreWindow(true),3000)
   })
 
 
@@ -35,7 +35,7 @@ export default function Preloader() {
       {areWindow === false && (
          
          <motion.div
-          className="are text-center absolute z-10"
+          className="are text-center absolute z-10 top-0"
           initial={{ backgroundColor: "black", width: "0%" }}
 
           animate={{
@@ -129,7 +129,7 @@ export default function Preloader() {
       <AnimatePresence>
       {boxClicked === false && (
         <motion.div
-        className="box flex flex-col justify-center absolute z-20"
+        className="box flex flex-col justify-center absolute z-20 top-0"
         initial={{ opacity: 0, height: 0 }}
         animate={{
           opacity: 1,
@@ -141,7 +141,7 @@ export default function Preloader() {
           },
         }}
         exit={
-          {width: "0%",x:["50%", "100%"]}
+          {width: "0%",x:"100%",}
         }
       >
         <motion.span
@@ -151,7 +151,7 @@ export default function Preloader() {
             x: "10%",
             opacity: 1,
             transition: {
-              delay: 2.5,
+              delay:3,
               duration: 1.5,
             },
             
@@ -167,7 +167,7 @@ export default function Preloader() {
             x: "10%",
             opacity: 1,
             transition: {
-              delay: 2.6,
+              delay: 3.1,
               duration: 1.5,
             },
           }}
@@ -182,7 +182,7 @@ export default function Preloader() {
             x: "10%",
             opacity: 1,
             transition: {
-              delay: 2.7,
+              delay: 3.2,
               duration: 1.5,
             },
           }}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" viewBox="0 0 168 168">
+  <defs>
+    <style>.cls-1{clip-path:url(#clippath);}.cls-2,.cls-3{stroke-width:0px;}.cls-2,.cls-4{fill:none;}.cls-5{mask:url(#mask);}.cls-6{mask:url(#mask-3);}.cls-7{mask:url(#mask-2);}.cls-8{mask:url(#mask-5);}.cls-9{mask:url(#mask-4);}.cls-10{mask:url(#mask-1);}.cls-11{mask:url(#mask-7);}.cls-12{mask:url(#mask-6);}.cls-3{fill:#fff;}.cls-4{stroke:#e80d46;stroke-miterlimit:10;stroke-width:.5px;}</style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="16.02" y="10.36" width="123.56" height="151.24" transform="translate(-26.64 136.34) rotate(-73.6)"></rect>
+    </clipPath>
+    <mask id="mask" x="40.44" y="18.73" width="120.63" height="115.27" maskUnits="userSpaceOnUse">
+      <g id="mask0_1010_6433">
+        <path class="cls-3" d="m40.76,40.08l15.49-20.94,24.51,31.17,15.49-20.94,24.5,31.17,15.5-20.93,24.5,31.17-15.49,20.94-15.5,20.93-15.49,20.94-24.5-31.17-24.51-31.17-24.5-31.17Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-1" x="7.55" y="36.24" width="120.64" height="115.27" maskUnits="userSpaceOnUse">
+      <g id="mask1_1010_6433">
+        <path class="cls-3" d="m7.86,57.58l15.5-20.93,24.5,31.17,15.49-20.94,24.51,31.17,15.49-20.94,24.51,31.17-15.5,20.93-15.49,20.94-15.5,20.93-24.5-31.17-24.5-31.17L7.86,57.58Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-2" x="102.98" y="39.29" width="58.16" height="49.32" maskUnits="userSpaceOnUse">
+      <g id="mask2_1010_6433">
+        <path class="cls-3" d="m127.87,88.29l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-3" x="87.01" y="38.87" width="50.1" height="39.92" maskUnits="userSpaceOnUse">
+      <g id="mask3_1010_6433">
+        <path class="cls-3" d="m103.36,57.12l32.89-17.51-15.5,20.93-32.89,17.51,15.49-20.94Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-4" x="62.97" y="29.06" width="58.16" height="49.32" maskUnits="userSpaceOnUse">
+      <g id="mask4_1010_6433">
+        <path class="cls-3" d="m87.87,78.05l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-5" x="47.01" y="28.64" width="50.1" height="39.92" maskUnits="userSpaceOnUse">
+      <g id="mask5_1010_6433">
+        <path class="cls-3" d="m63.36,46.88l32.89-17.51-15.49,20.94-32.89,17.51,15.49-20.94Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-6" x="22.98" y="18.82" width="58.16" height="49.32" maskUnits="userSpaceOnUse">
+      <g id="mask6_1010_6433">
+        <path class="cls-3" d="m47.87,67.82l-24.5-31.17,32.89-17.51,24.51,31.17-32.89,17.51Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-7" x="7.01" y="18.4" width="50.1" height="39.92" maskUnits="userSpaceOnUse">
+      <g id="mask7_1010_6433">
+        <path class="cls-3" d="m23.36,36.65l32.89-17.51-15.49,20.94L7.86,57.58l15.5-20.93Z"></path>
+      </g>
+    </mask>
+  </defs>
+  <g class="cls-1">
+    <g class="cls-5">
+      <path class="cls-4" d="m40.76,40.08l15.49-20.94,24.51,31.17,15.49-20.94,24.5,31.17,15.5-20.93,24.5,31.17-15.49,20.94-15.5,20.93-15.49,20.94-24.5-31.17-24.51-31.17-24.5-31.17Z"></path>
+    </g>
+    <path class="cls-4" d="m40.76,40.08l15.49-20.94,24.51,31.17,15.49-20.94,24.5,31.17,15.5-20.93,24.5,31.17-15.49,20.94-15.5,20.93-15.49,20.94-24.5-31.17-24.51-31.17-24.5-31.17Z"></path>
+    <g class="cls-10">
+      <path class="cls-4" d="m7.86,57.58l15.5-20.93,24.5,31.17,15.49-20.94,24.51,31.17,15.49-20.94,24.51,31.17-15.5,20.93-15.49,20.94-15.5,20.93-24.5-31.17-24.5-31.17L7.86,57.58Z"></path>
+    </g>
+    <path class="cls-4" d="m7.86,57.58l15.5-20.93,24.5,31.17,15.49-20.94,24.51,31.17,15.49-20.94,24.51,31.17-15.5,20.93-15.49,20.94-15.5,20.93-24.5-31.17-24.5-31.17L7.86,57.58Z"></path>
+    <path class="cls-4" d="m81.39,151.09l32.89-17.51"></path>
+    <g class="cls-7">
+      <path class="cls-4" d="m127.87,88.29l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+    </g>
+    <path class="cls-4" d="m127.87,88.29l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+    <g class="cls-6">
+      <path class="cls-4" d="m103.36,57.12l32.89-17.51-15.5,20.93-32.89,17.51,15.49-20.94Z"></path>
+    </g>
+    <path class="cls-4" d="m103.36,57.12l32.89-17.51-15.5,20.93-32.89,17.51,15.49-20.94Z"></path>
+    <g class="cls-9">
+      <path class="cls-4" d="m87.87,78.05l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+    </g>
+    <path class="cls-4" d="m87.87,78.05l-24.51-31.17,32.89-17.51,24.5,31.17-32.89,17.51Z"></path>
+    <g class="cls-8">
+      <path class="cls-4" d="m63.36,46.88l32.89-17.51-15.49,20.94-32.89,17.51,15.49-20.94Z"></path>
+    </g>
+    <path class="cls-4" d="m63.36,46.88l32.89-17.51-15.49,20.94-32.89,17.51,15.49-20.94Z"></path>
+    <g class="cls-12">
+      <path class="cls-4" d="m47.87,67.82l-24.5-31.17,32.89-17.51,24.51,31.17-32.89,17.51Z"></path>
+    </g>
+    <path class="cls-4" d="m47.87,67.82l-24.5-31.17,32.89-17.51,24.51,31.17-32.89,17.51Z"></path>
+    <g class="cls-11">
+      <path class="cls-4" d="m23.36,36.65l32.89-17.51-15.49,20.94L7.86,57.58l15.5-20.93Z"></path>
+    </g>
+    <path class="cls-4" d="m23.36,36.65l32.89-17.51-15.49,20.94L7.86,57.58l15.5-20.93Z"></path>
+  </g>
+</svg>

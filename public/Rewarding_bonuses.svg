@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" viewBox="0 0 168 168">
+  <defs>
+    <style>.cls-1{clip-path:url(#clippath);}.cls-2,.cls-3{fill:none;}.cls-2,.cls-4{stroke-width:0px;}.cls-5{mask:url(#mask);}.cls-3{stroke:#e80d46;stroke-linejoin:round;stroke-width:.5px;}.cls-6{mask:url(#mask-3);}.cls-7{mask:url(#mask-2);}.cls-8{mask:url(#mask-5);}.cls-9{mask:url(#mask-4);}.cls-10{mask:url(#mask-1);}.cls-11{mask:url(#mask-6);}.cls-4{fill:#fff;}</style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="21.34" y="7.62" width="125.33" height="144.76" transform="translate(-8.82 149.57) rotate(-80.45)"></rect>
+    </clipPath>
+    <mask id="mask" x="8.55" y="19.98" width="144.81" height="107.74" maskUnits="userSpaceOnUse">
+      <g id="mask0_1010_6556">
+        <path class="cls-4" d="m105.25,20.23l47.87,17.84-48.86,89.4L8.8,91.89l24.43-44.7,72.02-26.96Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-1" x="16.23" y="40.56" width="144.81" height="107.73" maskUnits="userSpaceOnUse">
+      <g id="mask1_1010_6556">
+        <path class="cls-4" d="m112.92,40.81l47.87,17.84-48.85,89.39L16.48,112.47l24.43-44.7,72.02-26.96Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-2" x="32.98" y="19.98" width="80.19" height="48.04" maskUnits="userSpaceOnUse">
+      <g id="mask2_1010_6556">
+        <path class="cls-4" d="m112.92,40.81l-72.02,26.96-7.67-20.58,72.02-26.96,7.67,20.58Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-3" x="8.55" y="46.94" width="32.6" height="65.78" maskUnits="userSpaceOnUse">
+      <g id="mask3_1010_6556">
+        <path class="cls-4" d="m40.91,67.77l-24.43,44.7-7.67-20.58,24.43-44.7,7.67,20.58Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-4" x="8.55" y="91.64" width="103.63" height="56.65" maskUnits="userSpaceOnUse">
+      <g id="mask4_1010_6556">
+        <path class="cls-4" d="m16.48,112.47l-7.67-20.58,95.45,35.58,7.68,20.57L16.48,112.47Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-5" x="104.01" y="37.82" width="57.03" height="110.47" maskUnits="userSpaceOnUse">
+      <g id="mask5_1010_6556">
+        <path class="cls-4" d="m111.93,148.04l-7.68-20.57,48.86-89.4,7.67,20.58-48.86,89.39Z"></path>
+      </g>
+    </mask>
+    <mask id="mask-6" x="105" y="19.98" width="56.04" height="38.92" maskUnits="userSpaceOnUse">
+      <g id="mask6_1010_6556">
+        <path class="cls-4" d="m160.79,58.65l-47.87-17.84-7.67-20.58,47.86,17.84,7.67,20.58Z"></path>
+      </g>
+    </mask>
+  </defs>
+  <g class="cls-1">
+    <g class="cls-5">
+      <path class="cls-3" d="m105.25,20.23l47.87,17.84-48.86,89.4L8.8,91.89l24.43-44.7,72.02-26.96Z"></path>
+    </g>
+    <path class="cls-3" d="m105.25,20.23l47.87,17.84-48.86,89.4L8.8,91.89l24.43-44.7,72.02-26.96Z"></path>
+    <g class="cls-10">
+      <path class="cls-3" d="m112.92,40.81l47.87,17.84-48.85,89.39L16.48,112.47l24.43-44.7,72.02-26.96Z"></path>
+    </g>
+    <path class="cls-3" d="m112.92,40.81l47.87,17.84-48.85,89.39L16.48,112.47l24.43-44.7,72.02-26.96Z"></path>
+    <g class="cls-7">
+      <path class="cls-3" d="m112.92,40.81l-72.02,26.96-7.67-20.58,72.02-26.96,7.67,20.58Z"></path>
+    </g>
+    <path class="cls-3" d="m112.92,40.81l-72.02,26.96-7.67-20.58,72.02-26.96,7.67,20.58Z"></path>
+    <g class="cls-6">
+      <path class="cls-3" d="m40.91,67.77l-24.43,44.7-7.67-20.58,24.43-44.7,7.67,20.58Z"></path>
+    </g>
+    <path class="cls-3" d="m40.91,67.77l-24.43,44.7-7.67-20.58,24.43-44.7,7.67,20.58Z"></path>
+    <g class="cls-9">
+      <path class="cls-3" d="m16.48,112.47l-7.67-20.58,95.45,35.58,7.68,20.57L16.48,112.47Z"></path>
+    </g>
+    <path class="cls-3" d="m16.48,112.47l-7.67-20.58,95.45,35.58,7.68,20.57L16.48,112.47Z"></path>
+    <g class="cls-8">
+      <path class="cls-3" d="m111.93,148.04l-7.68-20.57,48.86-89.4,7.67,20.58-48.86,89.39Z"></path>
+    </g>
+    <path class="cls-3" d="m111.93,148.04l-7.68-20.57,48.86-89.4,7.67,20.58-48.86,89.39Z"></path>
+    <g class="cls-11">
+      <path class="cls-3" d="m160.79,58.65l-47.87-17.84-7.67-20.58,47.86,17.84,7.67,20.58Z"></path>
+    </g>
+    <path class="cls-3" d="m160.79,58.65l-47.87-17.84-7.67-20.58,47.86,17.84,7.67,20.58Z"></path>
+  </g>
+</svg>
